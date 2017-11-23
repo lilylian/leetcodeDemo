@@ -4,6 +4,7 @@ package com.lilylian.leetcode.string;
 
 /**
  * 520. Detect Capital
+ * 检测字母：全大写、全小写、第一个字母大写
  */
 public class String171122_520detectCapitalUse {
 	
